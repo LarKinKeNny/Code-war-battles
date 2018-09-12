@@ -14,6 +14,7 @@ public class ASum {
 
         if(numberOfCubes == m) return level;
         return -1;
+
     }
 }
 
